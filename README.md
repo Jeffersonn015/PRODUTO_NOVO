@@ -1,6 +1,6 @@
 # PRODUTO NOVO
 
-Este repositório contém um código em java 
+Este repositório contém um código em java.
 
 # 🚀 Começando
 
